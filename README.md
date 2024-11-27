@@ -4,6 +4,8 @@ Official repository for Characterization of tumor heterogeneity through segmenta
 
 The following are the instructions for running the CANVAS analysis framework for multiplexed images.
 
+**[Google Colab walkthrough](https://colab.research.google.com/drive/1iT9pu7_2fR97GGEs6KYovQYMjZ55CkJD?usp=sharing )**. Note that this is only used for debugging purposes due to limited run time and storage on colab. We recommend conduct training and analysis on a local machine with GPUs.
+
 ## Overview:
 CANVAS pipeline requires 4 steps:
 1. Preprocess Images: this step converts raw images IMC/tiff or other images into zarr format and specify the channels of interest.
