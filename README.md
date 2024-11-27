@@ -1,7 +1,8 @@
 # CANVAS
 
-# Instructions for running the CANVAS analysis framework for multiplexed images.
+Official repository for Characterization of tumor heterogeneity through segmentation-free representation learning on multiplexed imaging data
 
+The following are the instructions for running the CANVAS analysis framework for multiplexed images.
 
 ## Overview:
 CANVAS pipeline requires 4 steps:
@@ -38,7 +39,7 @@ dataset_root
         - model_ckpt
         - analysis
 ```
-Example of structured data set is on zenodo: https://zenodo.org/record/
+Example of structured data set is on zenodo: https://zenodo.org/records/14226759
 
 Run preprocessing function: `python run_preprocess.py --config_root <config_root_path> --data_root <data_root_path>`
 
