@@ -1,5 +1,7 @@
 # CANVAS
 
+[![DOI](https://zenodo.org/badge/887594942.svg)](https://zenodo.org/badge/latestdoi/887594942)
+
 Official repository for Characterization of tumor heterogeneity through segmentation-free representation learning on multiplexed imaging data
 
 The following are the instructions for running the CANVAS analysis framework for multiplexed images.
