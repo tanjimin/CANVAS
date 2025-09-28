@@ -2,7 +2,7 @@
 
 [![DOI](https://zenodo.org/badge/887594942.svg)](https://zenodo.org/badge/latestdoi/887594942)
 
-Official repository for Characterization of tumor heterogeneity through segmentation-free representation learning on multiplexed imaging data
+Official repository for Characterization of tumor heterogeneity through segmentation-free representation learning on multiplexed imaging data. (Tan et al. Nat. Biomed. Eng, 2025, https://doi.org/10.1038/s41551-025-01348-1)
 
 The following are the instructions for running the CANVAS analysis framework for multiplexed images.
 
@@ -95,3 +95,6 @@ This script will also run UMAP and KMeans clustering to generate initial cluster
 
 ## Step 4: Run downstream analysis
 The analysis python script is located at canvas/analysis/main.py. Functions can be slected to run only desired analysis.
+
+## Reference
+Tan, J., Le, H., Deng, J. et al. Characterization of tumour heterogeneity through segmentation-free representation learning on multiplexed imaging data. Nat. Biomed. Eng 9, 405–419 (2025). https://doi.org/10.1038/s41551-025-01348-1.
